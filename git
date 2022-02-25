@@ -1,0 +1,23 @@
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   Libreria/mongo-java-driver-2.9.3.jar
+	new file:   build.xml
+	new file:   build/classes/.netbeans_automatic_build
+	new file:   build/classes/.netbeans_update_resources
+	new file:   build/classes/javamongodsm501/Conexion.class
+	new file:   build/classes/javamongodsm501/JavaMongoDSM501.class
+	new file:   git
+	new file:   manifest.mf
+	new file:   nbproject/build-impl.xml
+	new file:   nbproject/genfiles.properties
+	new file:   nbproject/private/private.properties
+	new file:   nbproject/private/private.xml
+	new file:   nbproject/project.properties
+	new file:   nbproject/project.xml
+	new file:   src/javamongodsm501/Conexion.java
+	new file:   src/javamongodsm501/JavaMongoDSM501.java
+
